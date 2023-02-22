@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-Equipo 2
+Equipo 12
 
 | Matricula  | Nombre | Carrera| Correo | Salon |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
