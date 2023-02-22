@@ -1,4 +1,5 @@
 # Corajillo
+En el transcurso de cinco semanas los estudiantes transformarán digitalmente un proceso de una Organización de la Sociedad Civil para que pueda impactar a más beneficiarios o mejorar su eficiencia operativa.
 
 ## Integrantes
 
